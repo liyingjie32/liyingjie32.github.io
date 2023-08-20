@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marketing | Chao Liu</title>
+    <link>https://liuchaos03.github.io/en/tag/marketing/</link>
+      <atom:link href="https://liuchaos03.github.io/en/tag/marketing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marketing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liuchaos03.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Marketing</title>
+      <link>https://liuchaos03.github.io/en/tag/marketing/</link>
+    </image>
+    
+    <item>
+      <title>Weighted doubly robust learning An uplift modeling technique for estimating mixed treatments&#39; effect</title>
+      <link>https://liuchaos03.github.io/en/publication/weighted-doubly-robust-learning-an-uplift-modeling-technique-for-estimating-mixed-treatments-effect/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://liuchaos03.github.io/en/publication/weighted-doubly-robust-learning-an-uplift-modeling-technique-for-estimating-mixed-treatments-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do Different Types of User-Generated Content Attract Travelers Taking Story and Review on Airbnb as the Example</title>
+      <link>https://liuchaos03.github.io/en/publication/how-do-different-types-of-user-generated-content-attract-travelers-taking-story-and-review-on-airbnb-as-the-example/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://liuchaos03.github.io/en/publication/how-do-different-types-of-user-generated-content-attract-travelers-taking-story-and-review-on-airbnb-as-the-example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Consumer Complaints on Firm Sales, New Evidence from a Public Complaint Platform</title>
+      <link>https://liuchaos03.github.io/en/publication/the-effect-of-consumer-complaints-on-firm-sales-new-evidence-from-a-public-complaint-platform/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://liuchaos03.github.io/en/publication/the-effect-of-consumer-complaints-on-firm-sales-new-evidence-from-a-public-complaint-platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Referral strategy based on social network incentive</title>
+      <link>https://liuchaos03.github.io/en/publication/referral-strategy-based-on-social-network-incentive/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://liuchaos03.github.io/en/publication/referral-strategy-based-on-social-network-incentive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Value measurement model of social network and its application in recommendation strategy</title>
+      <link>https://liuchaos03.github.io/en/publication/value-measurement-model-of-social-network-and-its-application-in-recommendation-strategy/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://liuchaos03.github.io/en/publication/value-measurement-model-of-social-network-and-its-application-in-recommendation-strategy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Value measurement model of network externality in a crowdfunding platform</title>
+      <link>https://liuchaos03.github.io/en/publication/value-measurement-model-of-network-externality-in-a-crowdfunding-platform/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://liuchaos03.github.io/en/publication/value-measurement-model-of-network-externality-in-a-crowdfunding-platform/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

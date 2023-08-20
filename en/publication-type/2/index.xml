@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Chao Liu</title>
+    <link>https://liuchaos03.github.io/en/publication-type/2/</link>
+      <atom:link href="https://liuchaos03.github.io/en/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://liuchaos03.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://liuchaos03.github.io/en/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Weighted doubly robust learning An uplift modeling technique for estimating mixed treatments&#39; effect</title>
+      <link>https://liuchaos03.github.io/en/publication/weighted-doubly-robust-learning-an-uplift-modeling-technique-for-estimating-mixed-treatments-effect/</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://liuchaos03.github.io/en/publication/weighted-doubly-robust-learning-an-uplift-modeling-technique-for-estimating-mixed-treatments-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do Different Types of User-Generated Content Attract Travelers Taking Story and Review on Airbnb as the Example</title>
+      <link>https://liuchaos03.github.io/en/publication/how-do-different-types-of-user-generated-content-attract-travelers-taking-story-and-review-on-airbnb-as-the-example/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://liuchaos03.github.io/en/publication/how-do-different-types-of-user-generated-content-attract-travelers-taking-story-and-review-on-airbnb-as-the-example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Referral strategy based on social network incentive</title>
+      <link>https://liuchaos03.github.io/en/publication/referral-strategy-based-on-social-network-incentive/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://liuchaos03.github.io/en/publication/referral-strategy-based-on-social-network-incentive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Risk Identification Model of Related Loans Based on Analysis of Multi-layer Complex Network Structure</title>
+      <link>https://liuchaos03.github.io/en/publication/risk-identification-model-of-related-loans-based-on-analysis-of/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://liuchaos03.github.io/en/publication/risk-identification-model-of-related-loans-based-on-analysis-of/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting the lead–lag efect in stock markets: defnition, patterns, and investment strategies</title>
+      <link>https://liuchaos03.github.io/en/publication/detecting-the-leadlag-efect-in-stock/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://liuchaos03.github.io/en/publication/detecting-the-leadlag-efect-in-stock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network analysis technologies for policy informatics and policy intelligence</title>
+      <link>https://liuchaos03.github.io/en/publication/network-analysis-technologies-for-policy-informatics-and-policy-intelligence/</link>
+      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://liuchaos03.github.io/en/publication/network-analysis-technologies-for-policy-informatics-and-policy-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic patterns of daily lead-lag networks in stock markets</title>
+      <link>https://liuchaos03.github.io/en/publication/dynamic-patterns-of-daily-lead-lag-networks-in-stock-markets/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://liuchaos03.github.io/en/publication/dynamic-patterns-of-daily-lead-lag-networks-in-stock-markets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Value measurement model of network externality in a crowdfunding platform</title>
+      <link>https://liuchaos03.github.io/en/publication/value-measurement-model-of-network-externality-in-a-crowdfunding-platform/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://liuchaos03.github.io/en/publication/value-measurement-model-of-network-externality-in-a-crowdfunding-platform/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
